@@ -1,6 +1,6 @@
 namespace TestProject1;
 
-public class UnitTest1
+public class GaugeTests
 {
     [Fact]
     public void Test1()
