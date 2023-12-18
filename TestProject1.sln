@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0FA2013E-0123-4E35-B359-4BC4BD996D0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-template", "netcore-template.csproj", "{330288FC-05AF-4A1F-A446-6BC665975626}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0FA2013E-0123-4E35-B359-4BC4BD996D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FA2013E-0123-4E35-B359-4BC4BD996D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FA2013E-0123-4E35-B359-4BC4BD996D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FA2013E-0123-4E35-B359-4BC4BD996D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330288FC-05AF-4A1F-A446-6BC665975626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330288FC-05AF-4A1F-A446-6BC665975626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330288FC-05AF-4A1F-A446-6BC665975626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330288FC-05AF-4A1F-A446-6BC665975626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
