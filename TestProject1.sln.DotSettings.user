@@ -1,6 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=330288FC_002D05AF_002D4A1F_002DA446_002D6BC665975626_002Ff_003ACalculatorStepImplementation_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=330288FC_002D05AF_002D4A1F_002DA446_002D6BC665975626_002Ff_003ACalculator_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=330288FC_002D05AF_002D4A1F_002DA446_002D6BC665975626_002Ff_003AStepImplementation_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c56c4d35_002D5cef_002D43f4_002D9ff2_002D127fec7b0e98/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::0FA2013E-0123-4E35-B359-4BC4BD996D0B::net8.0::TestProject1.GaugeTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B6FAD6D5-4A90-4C95-8E3F-C96DCEF97994::net8.0::SpecFlowTests.Features.CalculatorFeature&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

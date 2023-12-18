@@ -1,0 +1,12 @@
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.sourcelink.json
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\peteg\RiderProjects\TestProject1\Calculator\obj\Debug\net7.0\ref\Calculator.dll
